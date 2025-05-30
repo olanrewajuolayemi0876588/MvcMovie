@@ -38,10 +38,6 @@ It includes CRUD functionality, database seeding, and Azure deployment.
 - Project Started: 2025-05-27T14:00:00Z  
 - Project Completed: 2025-05-30T20:45:00Z
 
-## How to Run Locally
-```bash
-git clone https://github.com/olanrewajuolayemi0876588/MvcMovie
-cd MvcMovie
-dotnet restore
-dotnet ef database update
-dotnet run
+## Cloud Links
+github https://github.com/olanrewajuolayemi0876588/MvcMovie
+azure https://mvcmovie20250530140327-f4csd9dycedkf3fd.canadacentral-01.azurewebsites.net/
